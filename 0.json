@@ -1,11 +1,11 @@
 {
   "name": "Radical Raccoons #1",
   "symbol": "RACO",
-  "image": "https://raw.githubusercontent.com/MeNinja/metadata_container/main/1.png",
+  "image": "https://raw.githubusercontent.com/MeNinja/metadata_container/main/0.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/MeNinja/metadata_container/main/1.png",
+        "uri": "https://raw.githubusercontent.com/MeNinja/metadata_container/main/0.png",
         "type": "image/png"
       }
     ],
