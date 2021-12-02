@@ -1,0 +1,35 @@
+{
+  "name": "Radical Raccoons #1",
+  "symbol": "RACO",
+  "image": "0.png",
+  "properties": {
+    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9Y9zyvBc9HNwksc9sM4Lnwbg4oBYmiR7cSZJE6Ru34GS",
+        "share": 100
+      }
+    ]
+  },
+  "description": "Radical Raccoons NFT! The most radical NFT on solana!",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "raccoon", "value": "red.png" },
+    { "trait_type": "clothes", "value": "hoodie-red.png" },
+    { "trait_type": "tail", "value": "chain-golden.png" },
+    { "trait_type": "eyewear", "value": "monocle.png" },
+    { "trait_type": "hat", "value": "bandana-dark-red.png" },
+    { "trait_type": "face", "value": "love.png" },
+    { "trait_type": "background", "value": "stars.png" },
+    { "trait_type": "max_damage", "value": 14 },
+    { "trait_type": "damage", "value": 14 },
+    { "trait_type": "max_defence", "value": 74 },
+    { "trait_type": "defence", "value": 74 },
+    { "trait_type": "max_health", "value": 114 },
+    { "trait_type": "health", "value": 114 },
+    { "trait_type": "max_mana", "value": 0 },
+    { "trait_type": "mana", "value": 0 }
+  ],
+  "collection": { "name": "Radical Raccons OG", "family": "Radical Raccoons" }
+}
