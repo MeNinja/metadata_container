@@ -1,11 +1,11 @@
 {
-  "name": "Radical Raccoons TEST #1",
+  "name": "Radical Raccoons #1",
   "symbol": "RACO",
-  "image": "https://drive.google.com/uc?export=view&id=1fVoGTnXpvS7iuPQsoGUGAHU1AcWWqluU",
+  "image": "https://drive.google.com/uc?export=view&id=1nd4OcIqNV7SnV3nPMvwdxr3xF9LDTa5c",
   "properties": {
     "files": [
       {
-        "uri": "https://drive.google.com/uc?export=view&id=1fVoGTnXpvS7iuPQsoGUGAHU1AcWWqluU",
+        "uri": "https://drive.google.com/uc?export=view&id=1nd4OcIqNV7SnV3nPMvwdxr3xF9LDTa5c",
         "type": "image/png"
       }
     ],
@@ -26,15 +26,7 @@
     { "trait_type": "eyewear", "value": "monocle.png" },
     { "trait_type": "hat", "value": "bandana-dark-red.png" },
     { "trait_type": "face", "value": "love.png" },
-    { "trait_type": "background", "value": "stars.png" },
-    { "trait_type": "max_damage", "value": 14 },
-    { "trait_type": "damage", "value": 14 },
-    { "trait_type": "max_defence", "value": 74 },
-    { "trait_type": "defence", "value": 74 },
-    { "trait_type": "max_health", "value": 114 },
-    { "trait_type": "health", "value": 114 },
-    { "trait_type": "max_mana", "value": 0 },
-    { "trait_type": "mana", "value": 0 }
+    { "trait_type": "background", "value": "stars.png" }
   ],
   "collection": { "name": "Radical Raccons OG", "family": "Radical Raccoons" }
 }
