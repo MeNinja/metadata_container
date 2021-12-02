@@ -1,9 +1,14 @@
 {
   "name": "Radical Raccoons #1",
   "symbol": "RACO",
-  "image": "0.png",
+  "image": "https://drive.google.com/uc?export=view&id=1fVoGTnXpvS7iuPQsoGUGAHU1AcWWqluU",
   "properties": {
-    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "files": [
+      {
+        "uri": "https://drive.google.com/uc?export=view&id=1fVoGTnXpvS7iuPQsoGUGAHU1AcWWqluU",
+        "type": "image/png"
+      }
+    ],
     "category": "image",
     "creators": [
       {
