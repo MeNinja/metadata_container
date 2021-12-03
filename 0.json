@@ -20,13 +20,13 @@
   "description": "Radical Raccoons NFT! The most radical NFT on solana!",
   "seller_fee_basis_points": 500,
   "attributes": [
-    { "trait_type": "raccoon", "value": "red.png" },
-    { "trait_type": "clothes", "value": "hoodie-red.png" },
+    { "trait_type": "background", "value": "stars.png" },
+    { "trait_type": "raccoon", "value": "green.png" },
     { "trait_type": "tail", "value": "chain-golden.png" },
-    { "trait_type": "eyewear", "value": "monocle.png" },
-    { "trait_type": "hat", "value": "bandana-dark-red.png" },
+    { "trait_type": "clothes", "value": "hoodie-red.png" },
     { "trait_type": "face", "value": "love.png" },
-    { "trait_type": "background", "value": "stars.png" }
+    { "trait_type": "eyewear", "value": "monocle.png" },
+    { "trait_type": "hat", "value": "bandana-dark-red.png" }
   ],
   "collection": { "name": "Radical Raccons OG", "family": "Radical Raccoons" }
 }
