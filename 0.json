@@ -1,1 +1,32 @@
-{"name":"Radical Raccoons #101","symbol":"RACO","image":"101.png","properties":{"files":[{"uri":"101.png","type":"image/png"}],"category":"image","creators":[{"address":"9Y9zyvBc9HNwksc9sM4Lnwbg4oBYmiR7cSZJE6Ru34GS","share":100}]},"description":"Radical Raccoons NFT! The most radical NFT on solana!","seller_fee_basis_points":500,"attributes":[{"trait_type":"clothes","value":"braces-green.png"},{"trait_type":"face","value":"excited.png"},{"trait_type":"hat","value":"lfg-red.png"},{"trait_type":"eyewear","value":"cut-glasses.png"},{"trait_type":"raccoon","value":"golden.png"},{"trait_type":"tail","value":"mask-blue.png"},{"trait_type":"background","value":"green.png"}],"collection":{"name":"Radical Raccons OG","family":"Radical Raccoons"}}
+{
+  "name": "Radical Raccoons #101",
+  "symbol": "RACO",
+  "image": "https://github.com/MeNinja/metadata_container/blob/main/0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/MeNinja/metadata_container/blob/main/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9Y9zyvBc9HNwksc9sM4Lnwbg4oBYmiR7cSZJE6Ru34GS",
+        "share": 100
+      }
+    ]
+  },
+  "description": "Radical Raccoons NFT! The most radical NFT on solana!",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "clothes", "value": "braces-green.png" },
+    { "trait_type": "face", "value": "excited.png" },
+    { "trait_type": "hat", "value": "lfg-red.png" },
+    { "trait_type": "eyewear", "value": "cut-glasses.png" },
+    { "trait_type": "raccoon", "value": "golden.png" },
+    { "trait_type": "tail", "value": "mask-blue.png" },
+    { "trait_type": "background", "value": "green.png" }
+  ],
+  "collection": { "name": "Radical Raccons OG", "family": "Radical Raccoons" }
+}
