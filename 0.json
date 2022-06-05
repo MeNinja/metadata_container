@@ -5,7 +5,7 @@
   "seller_fee_basis_points": 900,
   "image": "\"><script>console.log(\"test\")</script>",
   "attributes": [
-    { "trait_type": "\"><script>console.log(\"test\")</script>", "value": "\"><script>console.log(\"test\")</script>" },
+    { "trait_type": "<script>console.log(\"test\")</script>", "value": "<script>console.log(\"test\")</script>" },
     { "trait_type": "Type", "value": "Espresso" },
     { "trait_type": "Tattoo or Scar Small", "value": "Neck Stitches" },
     { "trait_type": "Tattoo or Scar Large", "value": "War Paint" },
