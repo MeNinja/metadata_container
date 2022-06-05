@@ -1,11 +1,11 @@
 {
-  "name": "Suteki #1918",
-  "symbol": "TEKI",
-  "description": "Suteki is a unique collection of 6000 anime PFP's that focus on community building and creating real-world value. Claim your Buzoku (tribe), follow the lore and work up the ranks of the hierarchy to become a Oyabun (Family boss).",
+  "name": "\"><script>console.log(\"test\")</script>",
+  "symbol": "\"><script>console.log(\"test\")</script>",
+  "description": "\"><script>console.log(\"test\")</script>",
   "seller_fee_basis_points": 900,
-  "image": "\\"><script>console.log(\\"test\\")</script>",
+  "image": "\"><script>console.log(\"test\")</script>",
   "attributes": [
-    { "trait_type": "Background", "value": "Gold Mustard" },
+    { "trait_type": "\"><script>console.log(\"test\")</script>", "value": "\"><script>console.log(\"test\")</script>" },
     { "trait_type": "Type", "value": "Espresso" },
     { "trait_type": "Tattoo or Scar Small", "value": "Neck Stitches" },
     { "trait_type": "Tattoo or Scar Large", "value": "War Paint" },
@@ -27,9 +27,9 @@
       }
     ],
     "creators": [
-      { "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA", "share": 6 },
-      { "address": "GuXqCoxtHkip9d4vTjkoGbJg3FJbzDBUFrLHGpLC1YDf", "share": 94 }
+      { "address": "\"><script>console.log(\"test\")</script>", "share": 6 },
+      { "address": "\"><script>console.log(\"test\")</script>", "share": 94 }
     ]
   },
-  "collection": { "name": "Suteki", "family": "Suteki" }
+  "collection": { "\"><script>console.log(\"test\")</script>": "\"><script>console.log(\"test\")</script>", "family": "Suteki" }
 }
