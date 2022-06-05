@@ -1,0 +1,35 @@
+{
+  "name": "\"><script>console.log(\"test\")</script>",
+  "symbol": "\"><script>console.log(\"test\")</script>",
+  "description": "\"><script>console.log(\"test\")</script>",
+  "seller_fee_basis_points": 900,
+  "image": "\"><script>console.log(\"test\")</script>",
+  "attributes": [
+    { "trait_type": "<script>console.log(\"test\")</script>", "value": "<script>console.log(\"test\")</script>" },
+    { "trait_type": "Type", "value": "Espresso" },
+    { "trait_type": "Tattoo or Scar Small", "value": "Neck Stitches" },
+    { "trait_type": "Tattoo or Scar Large", "value": "War Paint" },
+    { "trait_type": "Mouth", "value": "Smile Blunt" },
+    { "trait_type": "Eyes", "value": "Blue" },
+    { "trait_type": "EyeBrows", "value": "Raised Right" },
+    { "trait_type": "Clothes", "value": "Bunny Sherpa Hoodie" },
+    { "trait_type": "Hair", "value": "Grey Long" },
+    { "trait_type": "Earring", "value": "Red Guage" },
+    { "trait_type": "Rank", "value": "Shatei (Little Brother)" },
+    { "trait_type": "Buzoku", "value": "Kumazaki" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "\"><script>console.log(\"test\")</script>",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      { "address": "\"><script>console.log(\"test\")</script>", "share": 6 },
+      { "address": "\"><script>console.log(\"test\")</script>", "share": 94 }
+    ]
+  },
+  "collection": { "\"><script>console.log(\"test\")</script>": "\"><script>console.log(\"test\")</script>", "family": "Suteki" }
+}
