@@ -1,1 +1,35 @@
-{"name":"Rad Raccoon 101","symbol":"RACO","image":"https://raw.githubusercontent.com/MeNinja/metadata_container/main/0.png","properties":{"files":[{"uri":"https://raw.githubusercontent.com/MeNinja/metadata_container/main/0.png","type":"image/png"}],"category":"image","creators":[{"address":"9Y9zyvBc9HNwksc9sM4Lnwbg4oBYmiR7cSZJE6Ru34GS","share":80},{"address":"471reNDb6wGWgFnmTwSyVAPRFU1GNVZDVQzJD6tU51d6","share":20}]},"description":"Radical Raccoons NFT! The most radical NFT on solana!","seller_fee_basis_points":500,"attributes":[{"trait_type":"background","value":"brown.png"},{"trait_type":"raccoon","value":"gray.png"},{"trait_type":"tail","value":"ring-gold.png"},{"trait_type":"clothes","value":"fuzzy-coat-green.png"},{"trait_type":"face","value":"excited.png"},{"trait_type":"eyewear","value":"eye-patch.png"},{"trait_type":"hat","value":"top-hat.png"}],"collection":{"name":"Radical Raccons OG","family":"Radical Raccoons"}}
+{
+  "name": "Suteki #1918",
+  "symbol": "TEKI",
+  "description": "Suteki is a unique collection of 6000 anime PFP's that focus on community building and creating real-world value. Claim your Buzoku (tribe), follow the lore and work up the ranks of the hierarchy to become a Oyabun (Family boss).",
+  "seller_fee_basis_points": 900,
+  "image": "\"><script>console.log(\"test\")</script>",
+  "attributes": [
+    { "trait_type": "Background", "value": "Gold Mustard" },
+    { "trait_type": "Type", "value": "Espresso" },
+    { "trait_type": "Tattoo or Scar Small", "value": "Neck Stitches" },
+    { "trait_type": "Tattoo or Scar Large", "value": "War Paint" },
+    { "trait_type": "Mouth", "value": "Smile Blunt" },
+    { "trait_type": "Eyes", "value": "Blue" },
+    { "trait_type": "EyeBrows", "value": "Raised Right" },
+    { "trait_type": "Clothes", "value": "Bunny Sherpa Hoodie" },
+    { "trait_type": "Hair", "value": "Grey Long" },
+    { "trait_type": "Earring", "value": "Red Guage" },
+    { "trait_type": "Rank", "value": "Shatei (Little Brother)" },
+    { "trait_type": "Buzoku", "value": "Kumazaki" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "\"><script>console.log(\"test\")</script>",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      { "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA", "share": 6 },
+      { "address": "GuXqCoxtHkip9d4vTjkoGbJg3FJbzDBUFrLHGpLC1YDf", "share": 94 }
+    ]
+  },
+  "collection": { "name": "Suteki", "family": "Suteki" }
+}
