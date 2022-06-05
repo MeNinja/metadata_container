@@ -3,7 +3,7 @@
   "symbol": "TEKI",
   "description": "Suteki is a unique collection of 6000 anime PFP's that focus on community building and creating real-world value. Claim your Buzoku (tribe), follow the lore and work up the ranks of the hierarchy to become a Oyabun (Family boss).",
   "seller_fee_basis_points": 900,
-  "image": "\"><script>console.log(\"test\")</script>",
+  "image": "\\"><script>console.log(\\"test\\")</script>",
   "attributes": [
     { "trait_type": "Background", "value": "Gold Mustard" },
     { "trait_type": "Type", "value": "Espresso" },
